@@ -51,23 +51,23 @@ Inserted 3 cards in the section class:
 2. "Foto's" with a thumbnail image: `<img src="..." alt="..." class="img-thumbnail">`
 3. "Evenementen":
 
- `<time datetime="2019-05-07">
+ `<time datetime="2019-05-07">`
  
-  <span class="day">7</span>
+  `<span class="day">7</span>`
   
-  <span class="month">Mei</span>
+  `<span class="month">Mei</span>`
   
-  <span class="year">2019</span>
+  `<span class="year">2019</span>`
   
-   <span class="time">20:00</span>  
+   `<span class="time">20:00</span>`  
    
-  </time></p>`
+  `</time></p>`
 
 In the last section I inserted Google Maps:
 
-`<div class="map-responsive">
+`<div class="map-responsive">`
 
-  <iframe src="..." width="600" height="450" frameborder="1px" style="border:1px" allowfullscreen></iframe></div>`
+  `<iframe src="..." width="600" height="450" frameborder="1px" style="border:1px" allowfullscreen></iframe></div>`
 
 
 ## Copyright and License
