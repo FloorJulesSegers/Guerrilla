@@ -46,7 +46,12 @@ The template already has:
 ## My website
 I made some changes to the navbar: 
 * I made the navbar transparent:`.navbar{background-color: transparent;}`
-* I inserted a search bar in the navbar with Bootstrap `<form class="inline block"`
+* I inserted a search bar with Bootstrap `<form class="form-inline"`
+* Image:`.navbar-brand`
+
+Instead of an image in the header:
+* Two different headings: `h1`& `h2`
+* Bigger image with: `header > h1{ padding-top: 200px}`& `header > h2{ padding-bottom: 200px} 
 
 
 
