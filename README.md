@@ -22,6 +22,8 @@
 ## About The Project
 I created and deployed a one-pager in 8 hours. I gathered content from a café that has no website, only a Facebook page. 
 
+![TGC](https://user-images.githubusercontent.com/49682756/57457265-7b796380-726f-11e9-9dda-38b2f6da5f8e.png)
+
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
