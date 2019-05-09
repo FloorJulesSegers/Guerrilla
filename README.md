@@ -45,8 +45,9 @@ The template already has:
 
 ## My website
 I made some changes to the navbar: 
-*I made the navbar transparent:
-..* .navbar{background-color: transparent;}
+* I made the navbar transparent:
+..*  .navbar{background-color: transparent;}
+* I inserted a search bar in the navbar with Bootstrap '<form class="inline block"'
 
 
 
