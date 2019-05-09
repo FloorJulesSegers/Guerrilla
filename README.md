@@ -32,7 +32,7 @@ I created and deployed a one-pager in 8 hours. I gathered content from a café t
 ##Built with
 [Bootstrap](https://getbootstrap.com)
 
-##Getting started
+## Getting started
 I used a free bootstrap template from [Start Bootstrap](https://startbootstrap.com/templates/.).
 
 ![startbootstrap](https://user-images.githubusercontent.com/49682756/57458335-73222800-7271-11e9-9eaa-1aa9f328f9f2.png)
@@ -43,7 +43,7 @@ The template already has:
 * 2 sections that interrupt the images
 * A footer
 
-##My website
+## My website
 I made some changes to the navbar: 
 *I made the navbar transparent:
 ..* .navbar{background-color: transparent;}
