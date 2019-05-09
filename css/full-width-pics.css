@@ -1,0 +1,110 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.img-fluid{
+  width:300px
+}
+
+.navbar-brand > img{
+  width:50px;
+}
+
+nav{
+  background-color: transparent;
+  color: black;
+}
+
+.navbar{
+  background-color: transparent;
+  color: white;
+}
+
+li{
+  color:white;
+}
+
+header > h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: Cinzel;
+  font-weight: bolder;
+  padding-top: 200px;
+ ;
+}
+
+header > h2{
+  color:white;
+  text-align: center;
+  font-family: Cinzel;
+  font-weight: bolder;
+  padding-bottom: 200px
+}
+
+
+div > h1{
+  font-family: Cinzel;
+  font-weight: bold;
+}
+
+section{
+  background:lightgrey;
+}
+
+.card{
+  display: inline-block;
+}
+
+.btn{
+  align-self: auto;
+}
+
+li > h2{
+  font-size:20px;
+}
+
+li > .day, .month,.year, .time{
+  font-family: Cinzel;
+  color:black;
+}
+
+.card-text{
+  padding-top:10px;
+  font-family: Cinzel;
+  font-weight:bold;
+}
+
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  margin:20px;
+}
+
+section{
+  background: url('https://www.solidbackgrounds.com/images/950x350/950x350-taupe-gray-solid-color-background.jpg');
+}
+
+.card-text > a{
+  background-color: #8b8589;
+  color: white;
+}
+
+h5{
+  font-family:Cinzel;
+}
