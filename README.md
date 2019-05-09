@@ -68,6 +68,19 @@ In the last section I inserted Google Maps:
 `<div class="map-responsive">`
 
   `<iframe src="..." width="600" height="450" frameborder="1px" style="border:1px" allowfullscreen></iframe></div>`
+  
+ ## Project Link
+  [https://github.com/FloorJulesSegers](https://floorjulessegers.github.io/Guerrilla/)
+  
+ ## Acknowledgements
+* [Start Bootstrap](https://startbootstrap.com/)
+* [The Geeky Cauldron](https://www.facebook.com/CafeTheGeekycauldron/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [Get Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+
+ 
 
 
 ## Copyright and License
