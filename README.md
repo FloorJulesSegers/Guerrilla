@@ -14,10 +14,6 @@ I created and deployed a one-pager in 8 hours. I gathered content from a café t
 ![wallpapertgk](https://user-images.githubusercontent.com/49682756/57517246-b387b180-7316-11e9-8841-9d7effa5a341.png)
 
 
-![cardstgc](https://user-images.githubusercontent.com/49682756/57517240-b1255780-7316-11e9-8983-f49ec682a8cc.png)
-
-![TGC4](https://user-images.githubusercontent.com/49682756/57457512-f6db1500-726f-11e9-90b1-d909ae2674ad.png)
-
 ## Built with
 *[Bootstrap](https://getbootstrap.com)
 * Visual Studio Code
