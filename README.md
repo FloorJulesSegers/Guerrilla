@@ -5,7 +5,7 @@
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [My website](#my-website)
-* [Contact](#contact)
+* [Project Link](#Project-link)
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
