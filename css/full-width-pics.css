@@ -1,0 +1,128 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.img-fluid{
+  width:300px
+}
+
+
+
+nav{
+  background-color: transparent;
+  color: black;
+  color:white;
+}
+
+.navbar-brand > img{
+  width:50px;
+}
+
+
+li{
+  color:white;
+}
+
+header > h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: Cinzel;
+  font-weight: bolder;
+  padding-top: 200px;
+ ;
+}
+
+header > h2{
+  color:white;
+  text-align: center;
+  font-family: Cinzel;
+  font-weight: bolder;
+  padding-bottom: 100px
+}
+
+
+div > h1{
+  font-family: Cinzel;
+  font-weight: bold;
+}
+
+section{
+  background:lightgrey;
+}
+
+.card{
+  display: inline-block;
+}
+
+
+
+li > h2{
+  font-size:20px;
+}
+
+li > .day, .month,.year, .time{
+  font-family: Cinzel;
+  color:black;
+}
+
+.card-text{
+  padding-top:10px;
+  font-family: Cinzel;
+  font-weight:bold;
+}
+
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:50%;
+  width:50%;
+  position:absolute;
+  
+  background-color: #8b8589;
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  padding-left:50%;
+  position:relative;
+  height:0;
+}
+
+section{
+  background: url('https://www.solidbackgrounds.com/images/950x350/950x350-taupe-gray-solid-color-background.jpg');
+  height: 450px;
+}
+
+.card-text > a{
+  background-color: #8b8589;
+  color: white;
+}
+
+h5{
+  font-family:Cinzel;
+  color:white;
+}
+
+footer{
+  background-color:#8b8589;
+  opacity:0.5;
+}
+
+section > p{
+  font-family: Cinzel;
+  color:white;
+}
