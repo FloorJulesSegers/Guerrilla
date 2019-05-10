@@ -17,19 +17,18 @@
   width:300px
 }
 
-.navbar-brand > img{
-  width:50px;
-}
+
 
 nav{
   background-color: transparent;
   color: black;
+  color:white;
 }
 
-.navbar{
-  background-color: transparent;
-  color: white;
+.navbar-brand > img{
+  width:50px;
 }
+
 
 li{
   color:white;
@@ -50,7 +49,7 @@ header > h2{
   text-align: center;
   font-family: Cinzel;
   font-weight: bolder;
-  padding-bottom: 200px
+  padding-bottom: 100px
 }
 
 
@@ -67,9 +66,7 @@ section{
   display: inline-block;
 }
 
-.btn{
-  align-self: auto;
-}
+
 
 li > h2{
   font-size:20px;
@@ -90,14 +87,24 @@ li > .day, .month,.year, .time{
 .map-responsive iframe{
   left:0;
   top:0;
-  height:100%;
-  width:100%;
+  height:50%;
+  width:50%;
   position:absolute;
-  margin:20px;
+  
+  background-color: #8b8589;
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  padding-left:50%;
+  position:relative;
+  height:0;
 }
 
 section{
   background: url('https://www.solidbackgrounds.com/images/950x350/950x350-taupe-gray-solid-color-background.jpg');
+  height: 450px;
 }
 
 .card-text > a{
@@ -107,4 +114,15 @@ section{
 
 h5{
   font-family:Cinzel;
+  color:white;
+}
+
+footer{
+  background-color:#8b8589;
+  opacity:0.5;
+}
+
+section > p{
+  font-family: Cinzel;
+  color:white;
 }
