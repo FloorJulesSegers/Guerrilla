@@ -11,9 +11,10 @@
 ## About The Project
 I created and deployed a one-pager in 8 hours. I gathered content from a café that has no website, only a Facebook page. 
 
-![TGC](https://user-images.githubusercontent.com/49682756/57457503-f478bb00-726f-11e9-9cd5-2930cfafa599.png)
+![wallpapertgk](https://user-images.githubusercontent.com/49682756/57517246-b387b180-7316-11e9-8841-9d7effa5a341.png)
 
-![TGC2](https://user-images.githubusercontent.com/49682756/57457507-f5a9e800-726f-11e9-9414-c352e99eb76c.png)
+
+![cardstgc](https://user-images.githubusercontent.com/49682756/57517240-b1255780-7316-11e9-8983-f49ec682a8cc.png)
 
 ![TGC4](https://user-images.githubusercontent.com/49682756/57457512-f6db1500-726f-11e9-90b1-d909ae2674ad.png)
 
